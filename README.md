@@ -1,1 +1,1 @@
-# miniprojects
+This is are miniprojects that come in my mind to do to apply the basics concept I have learned just to see how they can be used in real life situation. I always believe that new knolwedge acquired when put into real world practice it is fullt grasped. 
